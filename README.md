@@ -21,5 +21,5 @@ In this project, We will learn how to use Jasmine to write a number of tests aga
 
 
 ## Thanks From
-<a href="">Soumya Ranjan Behera</a><br>
+<a href="https://www.linkedin.com/in/soumya044">Soumya Ranjan Behera</a><br>
 <a href="mailto:soumyaranjanb02@gmail.com">soumyaranjanb02@gmail.com</a>
